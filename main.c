@@ -58,7 +58,7 @@
 
 void main(void) {
     
-    Oscillator();
+    //Oscillator();
     
     
 // Belso oszcillátor beállítása 4 MHz-re (biztonság kedvéért)
